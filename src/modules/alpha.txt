@@ -1,1 +1,3 @@
+alpha0.txt
+alpha1.txt
 alpha2.txt
